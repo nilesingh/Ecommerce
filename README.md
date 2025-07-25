@@ -28,19 +28,6 @@ This is a **fully responsive static eCommerce website** built using **HTML, CSS,
 
 ## 📂 Project Structure
 
-```
-
-ecommerce-website/
-├── index.html
-├── product.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-└── assets/
-└── images/
-
-````
 
 ## 📦 How to Use
 
