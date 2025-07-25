@@ -20,26 +20,18 @@ This is a **fully responsive static eCommerce website** built using **HTML, CSS,
 ## 🚀 Live Demo
 
 [🔗 Click here to view the live site](#)  
-*(Add your GitHub Pages / Netlify / Vercel link here)*
-
-## 🖥️ Screenshots
-
-*(Add some screenshots of the website here)*
-
-## 📂 Project Structure
-
 
 ## 📦 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/nilesingh/Ecommerce.git
 ````
 
 2. Navigate to the project folder:
 
    ```bash
-   cd ecommerce-website
+   cd Ecommerce
    ```
 
 3. Open `index.html` in your browser or use a local server (like Live Server in VSCode).
@@ -48,7 +40,7 @@ This is a **fully responsive static eCommerce website** built using **HTML, CSS,
 
 ## 👨‍💻 Developer
 
-* **Nilesh Singh** – [GitHub](https://github.com/nileshsingh)
+* **Nilesh Singh** – [GitHub](https://github.com/nilesingh)
 
 ## 🤝 Collaborator
 
@@ -68,7 +60,3 @@ Feel free to fork, modify, and build upon it for your own projects!
 
 ```
 
----
-
-Would you like me to also generate a sample `index.html`, `style.css`, or `main.js` to go with this?
-```
